@@ -1,0 +1,11 @@
+{
+  "name": "ce",
+  "version": "0.0.1",
+  "description": "Minimalist Node.js web framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Alfiana Sibuea <alfian.sibuea@gmail.com>",
+  "license": "MIT"
+}
