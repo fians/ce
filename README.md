@@ -1,3 +1,3 @@
-# cocoa
+# CE
 
-Cocoa is minimalist web framework designed to be fast and extensible. 
+CE is minimalist web framework designed to be fast and extensible. 
